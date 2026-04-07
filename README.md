@@ -1,9 +1,48 @@
-- 👋 Hi, I’m @dshrijal
-- 👀 I’m interested in learning different tech stuffs.
-- 🌱 I’m currently learning web dev.
-- 📫 How to reach me me.shrijaldahal@gmail.com
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Future+Full+Stack+Dev🚀)
+# 👋 Hey there, I'm Shrijal!
 
-<!---
-dshrijal/dshrijal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about building cool stuff with code
+💻 Currently diving deep into **Web Development**
+🌱 Always learning something new every day
+
+---
+
+## 🧠 About Me
+
+* 👀 I love exploring new technologies
+* 🔧 Currently working on: **Student Helpdesk System (PHP, MySQL, JS)**
+* 🎯 Goal: Become a full-stack developer
+* ⚡ Fun fact: I turn coffee ☕ into code
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+![Shrijal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshrijal\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dshrijal\&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 Portfolio: (add later)
+* 📫 Email: (your email here)
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
