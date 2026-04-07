@@ -40,8 +40,8 @@
 
 ## 🌐 Connect with Me
 
-* 💼 Portfolio: (add later)
-* 📫 Email: (your email here)
+* 💼 Portfolio: shrijaldahal.com.np
+* 📫 Email: me.shrijaldahal@gmail.com
 
 ---
 
