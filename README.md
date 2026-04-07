@@ -41,7 +41,7 @@
 
 ## 🌐 Connect with Me
 
-* 💼 Portfolio: shrijaldahal.com.np
+* 💼 Portfolio: https://shrijaldahal.com.np/
 * 📫 Email: me.shrijaldahal@gmail.com
 
 ---
