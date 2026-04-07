@@ -36,7 +36,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `  tech-stack.txt`
+## ` tech-stack.txt`
 
 <div align="center">
 
@@ -68,8 +68,8 @@ status     : Grinding every day 💪
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dshrijal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshrijal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=dshrijal&cc=0D1117&tc=00D9FF&ic=00D9FF&bc=0D1117" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshrijal&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -79,9 +79,15 @@ status     : Grinding every day 💪
 
 </div>
 
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dshrijal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6)
+
+</div>
+
 ---
 
-## `tail -f activity.log`
+## ` activity.log`
 
 <div align="center">
 
@@ -91,7 +97,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `  current-project.md`
+## ` current-project.md`
 
 <div align="center">
 
