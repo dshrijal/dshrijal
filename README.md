@@ -21,7 +21,7 @@
 
 ---
 
-## `$ whoami`
+## ` whoami`
 
 ```yaml
 name       : Shrijal Dahal
@@ -36,7 +36,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `$ cat tech-stack.txt`
+## ` cat tech-stack.txt`
 
 <div align="center">
 
@@ -64,7 +64,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `$ git log --stats`
+## ` git log --stats`
 
 <div align="center">
 
@@ -81,7 +81,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `$ tail -f activity.log`
+## `tail -f activity.log`
 
 <div align="center">
 
@@ -91,7 +91,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `$ cat current-project.md`
+## ` cat current-project.md`
 
 <div align="center">
 
@@ -103,7 +103,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `$ fortune \| cowsay`
+## ` fortune `
 
 <div align="center">
 
@@ -116,7 +116,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `$ watch snake.sh`
+## ` watch snake.sh`
 
 <div align="center">
 
@@ -130,7 +130,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `$ ping me`
+## ` ping me`
 
 <div align="center">
 
