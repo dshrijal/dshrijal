@@ -69,7 +69,7 @@ status     : Grinding every day 💪
 <div align="center">
 
 <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=dshrijal&cc=0D1117&tc=00D9FF&ic=00D9FF&bc=0D1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshrijal&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshrijal&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
@@ -79,19 +79,13 @@ status     : Grinding every day 💪
 
 </div>
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dshrijal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6)
-
-</div>
-
 ---
 
-## ` activity.log`
+## `tail -f activity.log`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dshrijal&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dshrijal&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&radius=6)](https://github.com/dshrijal)
 
 </div>
 
