@@ -36,7 +36,7 @@ status     : Grinding every day 💪
 
 ---
 
-## ` cat tech-stack.txt`
+## `  tech-stack.txt`
 
 <div align="center">
 
@@ -91,7 +91,7 @@ status     : Grinding every day 💪
 
 ---
 
-## ` cat current-project.md`
+## `  current-project.md`
 
 <div align="center">
 
