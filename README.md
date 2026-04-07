@@ -25,6 +25,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=dshrijal&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📊 GitHub Stats
 
