@@ -36,7 +36,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `tech-stack.txt`
+## `tech-stack`
 
 <div align="center">
 
@@ -64,7 +64,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `git log --stats`
+## `stats`
 
 <div align="center">
 
@@ -80,7 +80,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `tail -f activity.log`
+## `activity`
 
 <div align="center">
 
@@ -90,7 +90,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `current-project.md`
+## `current-project`
 
 <div align="center">
 
@@ -115,7 +115,7 @@ status     : Grinding every day 💪
 
 ---
 
-## `$watch snake.sh`
+## `$watch snake`
 
 <div align="center">
 
